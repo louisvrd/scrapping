@@ -1,0 +1,8 @@
+# Exemple de fichier URLs
+# Une URL par ligne
+# Les lignes commençant par # sont ignorées
+
+https://example1.myshopify.com
+https://example2.myshopify.com
+https://example3.myshopify.com
+

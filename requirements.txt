@@ -1,0 +1,23 @@
+# Dépendances Python pour le projet de scraping Shopify
+
+# Requêtes HTTP
+requests>=2.31.0
+
+# Parsing HTML
+beautifulsoup4>=4.12.0
+
+# Connexion PostgreSQL
+psycopg2-binary>=2.9.9
+
+# Gestion des variables d'environnement
+python-dotenv>=1.0.0
+
+# User agents rotatifs (optionnel)
+fake-useragent>=1.4.0
+
+# Selenium pour sites très dynamiques (optionnel)
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+
+# Playwright comme alternative à Selenium (optionnel)
+# playwright>=1.40.0

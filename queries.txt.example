@@ -1,0 +1,36 @@
+# Fichier de requêtes pour le scan Bing bulk
+# Une requête par ligne
+# Les lignes commençant par # sont ignorées (commentaires)
+
+# Mode de vie & Accessoires
+site:myshopify.com "bracelets"
+site:myshopify.com "yoga"
+site:myshopify.com "bijoux"
+site:myshopify.com "accessoires"
+
+# Mode & Vêtements
+site:myshopify.com "vêtements"
+site:myshopify.com "mode"
+site:myshopify.com "chaussures"
+
+# Beauté & Soins
+site:myshopify.com "cosmétiques"
+site:myshopify.com "soins"
+site:myshopify.com "parfum"
+
+# Maison & Décoration
+site:myshopify.com "décoration"
+site:myshopify.com "maison"
+site:myshopify.com "meubles"
+
+# Requêtes en anglais (pour plus de résultats)
+site:myshopify.com "jewelry"
+site:myshopify.com "clothing"
+site:myshopify.com "accessories"
+site:myshopify.com "home decor"
+site:myshopify.com "beauty"
+site:myshopify.com "fitness"
+site:myshopify.com "organic"
+site:myshopify.com "handmade"
+
+
